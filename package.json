@@ -1,0 +1,30 @@
+{
+  "name": "user-customizable-rank-card",
+  "version": "1.0.0",
+  "description": "[TEMPLATE] Discord.JS Rank card which is customisable by the members for themselves.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "dev": "nodemon ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AaryanKhClasses/User-Customizable-Rank-Card.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AaryanKhClasses/User-Customizable-Rank-Card/issues"
+  },
+  "homepage": "https://github.com/AaryanKhClasses/User-Customizable-Rank-Card#readme",
+  "dependencies": {
+    "canvacord": "^5.2.3",
+    "discord.js": "^13.1.0",
+    "dotenv": "^10.0.0",
+    "mongoose": "^5.13.7"
+  },
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "nodemon": "^2.0.12"
+  }
+}
