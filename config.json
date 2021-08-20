@@ -1,5 +1,6 @@
 {
-    "defaultOutlineColor": "#ffffff",
+    "defaultOverlayColor": "#ffffff",
     "defaultProgressColor": "#ffffff",
-    "activity": ""
+    "activity": "",
+    "prefix": "!"
 }
